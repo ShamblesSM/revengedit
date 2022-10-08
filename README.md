@@ -107,7 +107,7 @@ https://www.python.org/downloads/
 Python within a console window.**
 
 ## Installation
-Download the latest release, extract it. Run this command in the directory of the
+Clone this repository and extract it. Run this command in the directory of the
 `revengedit` folder.
 ```
 :: let's say the folder is in %HOMEDRIVE%%HOMEDIR%/revengedit
