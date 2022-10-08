@@ -1,0 +1,1 @@
+print("%(pon)s tight %(pon)s clean %(pon)s fresh" % {"pon": "pusi"})
